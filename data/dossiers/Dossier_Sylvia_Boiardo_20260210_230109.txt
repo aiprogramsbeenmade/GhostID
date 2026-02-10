@@ -1,0 +1,26 @@
+############################################################
+                GHOSTID - DOSSIER RISERVATO                 
+############################################################
+
+[ANAGRAFICA]
+Nome: Sylvia Boiardo            Genere: F
+Data di Nascita: 1980-02-23         Luogo: Castelcivita
+Codice Fiscale: BRDSLV80B63H501Z    Documento: NM14791ZX
+
+[DOMICILIO E GPS]
+Indirizzo: Piazza Centrale 1, Valsecca, Italia
+Coordinate: LAT 41.8902, LON 12.4922
+
+[PRESENZA DIGITALE]
+Email: sylvia.boiardo@gmail.com  Password: Sylvia1980$
+- LinkedIn: in/sylvia_boiardo (Professionale)
+- Instagram: @sylvia_boiardo_71 (Personale/Lifestyle)
+- Facebook: Sylvia.Boiardo.ufficiale (Privato)
+- X (Twitter): @BoiardoS18 (News/Opinioni)
+
+[PROFILO PROFESSIONALE]
+Istruzione: Laurea conseguita nel 2004 presso l'Università degli Studi di Torino
+RAL Stimata: €62,204
+Bio: Sono Sylvia, esperta in estate responsabile/land agent. Laurea conseguita nel 2004 presso l'Università degli Studi di Torino. Competenze chiave: Analisi, Problem Solving.
+
+############################################################
